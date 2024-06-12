@@ -17,7 +17,7 @@ O PureOcean SPA é uma aplicação web desenvolvida para auxiliar na gestão e m
 
 ## Implantação:
 
-O projeto está implantado na plataforma Vercel e pode ser acessado através do seguinte link: [PureOcean SPA]([#]https://vercel.com/bruno-maias-projects-e0d810f7/pureocean-app)
+O projeto está implantado na plataforma Vercel e pode ser acessado através do seguinte link: https://vercel.com/bruno-maias-projects-e0d810f7/pureocean-app
 
 ## Contribuindo:
 
