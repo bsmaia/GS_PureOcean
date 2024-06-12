@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import styles from './IncidentMap.module.scss';
+import styles from '../../styles/IncidentMap.module.scss';
 
 const IncidentMap = () => {
   useEffect(() => {
