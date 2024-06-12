@@ -1,0 +1,39 @@
+// Estilos específicos para a página inicial
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #333;
+  }
+  
+  .subtitle {
+    font-size: 18px;
+    font-weight: 500;
+    color: #666;
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .card-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #333;
+  }
+  
+  .card-content {
+    font-size: 16px;
+    color: #666;
+  }
+  
